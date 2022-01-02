@@ -1,0 +1,10 @@
+User-agent: Mediapartners-Google
+Allow: /
+
+User-Agent: *
+Allow: / 
+
+User-Agent: Googlebot
+Allow: /
+
+Sitemap: https://foodine.hu/sitemap.xml
